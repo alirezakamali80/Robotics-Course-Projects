@@ -42,8 +42,9 @@ This project focuses on the Scara robot model IRB910SC, analyzing it through kin
 - Understand the kinematic and dynamic aspects of robotic systems.
 - Develop skills in simulation and modeling.
 
-![MP2 DynmaicResults](./Mini%20Project%201/MP2_DynamicResults.PNG)
-![MP2 ScaraResults](./Mini%20Project%201/MP2_SCARA.PNG)
+
+![MP2 DynmaicResults](./Mini%20Project%202/MP2_DynamicResults.PNG)
+![MP2 ScaraResults](./Mini%20Project%202/MP2_SCARA.PNG)
 ---
 
 ## Mini Project 3: ROS and TurtleSim Playground
@@ -61,7 +62,7 @@ In this project, tasks were implemented on the Linux operating system using the 
 - Real-time performance adjustments and visual feedback.
 - Hands-on experience with ROS and TurtleSim.
 
-![MP3 Results](./Mini%20Project%201/MP3_Turtlesim_Playground.PNG)
+![MP3 Results](./Mini%20Project%203/MP3_Turtlesim_Playground.PNG)
 ---
 
 ## Mini Project 4: Deep Learning for Object Detection
@@ -79,7 +80,7 @@ This project leverages deep learning techniques to develop an automated system f
 - Custom dataset for robotic environments.
 - YOLO model for real-time object detection.
 
-![MP4 Results](./Mini%20Project%201/MP4_Classification.PNG)
+![MP4 Results](./Mini%20Project%204/MP4_Classification.PNG)
 ---
 
 
