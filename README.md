@@ -22,6 +22,9 @@ This mini-project explores various facets of motion sensing and control using th
 - Reinforce classroom concepts with hands-on experimentation.
 - Solve challenges related to sensor integration and data processing.
 
+  
+![MP1 Results](./Mini%20Project%201/MP1_MPU_Setup.PNG)
+
 ---
 
 ## Mini Project 2: Scara Robot Model Analysis
@@ -39,6 +42,8 @@ This project focuses on the Scara robot model IRB910SC, analyzing it through kin
 - Understand the kinematic and dynamic aspects of robotic systems.
 - Develop skills in simulation and modeling.
 
+![MP2 DynmaicResults](./Mini%20Project%201/MP2_DynamicResults.PNG)
+![MP2 ScaraResults](./Mini%20Project%201/MP2_SCARA.PNG)
 ---
 
 ## Mini Project 3: ROS and TurtleSim Playground
@@ -56,6 +61,7 @@ In this project, tasks were implemented on the Linux operating system using the 
 - Real-time performance adjustments and visual feedback.
 - Hands-on experience with ROS and TurtleSim.
 
+![MP3 Results](./Mini%20Project%201/MP3_Turtlesim_Playground.PNG)
 ---
 
 ## Mini Project 4: Deep Learning for Object Detection
@@ -73,6 +79,7 @@ This project leverages deep learning techniques to develop an automated system f
 - Custom dataset for robotic environments.
 - YOLO model for real-time object detection.
 
+![MP4 Results](./Mini%20Project%201/MP4_Classification.PNG)
 ---
 
 
